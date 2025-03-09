@@ -6,12 +6,11 @@
   image: SR_TensoRF.png
   #image_mouseover: illuminerf_after.mp4
   authors:
-    - ines
-    - cho
-    - gabriel
+    - yeonjin
+    - yearim
+    - seunghyeon
     - jung
-    - joonyoung
-    - seungryong
+    - nojun
 - id: Chrono
   title: "Exploring Temporally-Aware Features for Point Tracking"
   venue: CVPR, 2025
@@ -21,11 +20,12 @@
   image: reconfusion_before.png
   #image_mouseover: reconfusion_after.mp4
   authors:
-    - yeonjin
-    - yearim
-    - seunghyeon
+    - ines
+    - cho
+    - gabriel
     - jung
-    - nojun
+    - joonyoung
+    - seungryong
 
 # - id: hypernerf
 #   title: "CamP: Camera Preconditioning for Neural Radiance Fields"
