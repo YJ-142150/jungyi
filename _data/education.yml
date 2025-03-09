@@ -1,11 +1,9 @@
-- name: University of Washington 
+- name: Korea Advanced Institute of Science and Technology(KAIST)
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    M.S in Artificial Intelligence, advised by <a href="https://cvlab.kaist.ac.kr/">Seungryong Kim</a>.<br />
+  dates: Spring 2025 - Spring 2027(Expected)
 
-- name: University of Illinois at Urbana-Champaign
+- name: Yonsei University
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    B.S. in Electrical & Electronic Engineering.
+  dates: Spring 2018 - Fall 2024
