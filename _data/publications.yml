@@ -4,8 +4,8 @@
   description: "Feature backbone specifically designed for point tracking with built-in temporal awareness."
   project_page: https://cvlab-kaist.github.io/Chrono/
   arxiv: 2501.12218
-  image: Chrono.png
-  image_mouseover: Chrono.png #reconfusion_after.mp4
+  image: Chrono_resized.png
+  image_mouseover: Chrono_resized.png #reconfusion_after.mp4
   authors:
     - ines
     - cho
@@ -19,8 +19,8 @@
   venue: WACV, 2024
   description: "Outdoor scene relighting for Neural Radiance Fields (NeRF)."
   arxiv: 2311.03965
-  image: SR_TensoRF.png
-  image_mouseover: SR_TensoRF.png #illuminerf_after.mp4
+  image: SR-TensoRF_resized.png
+  image_mouseover: SR-TensoRF_resized.png #illuminerf_after.mp4
   authors:
     - yeonjin
     - yearim
