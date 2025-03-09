@@ -23,12 +23,11 @@ name: Jung Yi
 position: MS student
 email: jungyi9906@kaist.ac.kr
 description: >-
-  I am a researcher in 4D computer vision and generative AI. I currently co-lead the development of spatial intelligence at [World Labs](https://www.worldlabs.ai/blog).
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://blog.google/products/shopping/search-on-2022-shopping/) for products on Google Search.
-
+  I am interested in 4D Computer Vision and Video Generation. 
+  I am currently MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home).
   I received my BS from the Yonsei University in 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jungyi.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jung.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: KeunhongP
 github_username: YJ-142150
 google_scholar: omgRWh8AAAAJ
