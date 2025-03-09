@@ -1,16 +1,3 @@
-- id: SR-TensoRF
-  title: "Fast sun-aligned outdoor scene relighting based on tensorf"
-  venue: WACV, 2024
-  description: "Outdoor scene relighting for Neural Radiance Fields (NeRF)."
-  arxiv: 2311.03965
-  image: SR_TensoRF.png
-  #image_mouseover: illuminerf_after.mp4
-  authors:
-    - yeonjin
-    - yearim
-    - seunghyeon
-    - jung
-    - nojun
 - id: Chrono
   title: "Exploring Temporally-Aware Features for Point Tracking"
   venue: CVPR, 2025
@@ -26,6 +13,20 @@
     - jung
     - joonyoung
     - seungryong
+
+- id: SR-TensoRF
+  title: "Fast sun-aligned outdoor scene relighting based on tensorf"
+  venue: WACV, 2024
+  description: "Outdoor scene relighting for Neural Radiance Fields (NeRF)."
+  arxiv: 2311.03965
+  image: SR_TensoRF.png
+  #image_mouseover: illuminerf_after.mp4
+  authors:
+    - yeonjin
+    - yearim
+    - seunghyeon
+    - jung
+    - nojun
 
 # - id: hypernerf
 #   title: "CamP: Camera Preconditioning for Neural Radiance Fields"
