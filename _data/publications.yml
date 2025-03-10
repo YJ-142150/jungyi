@@ -19,8 +19,8 @@
   venue: WACV, 2024
   description: "Outdoor scene relighting for Neural Radiance Fields (NeRF)."
   arxiv: 2311.03965
-  image: SR-TensoRF_resized.png
-  image_mouseover: SR-TensoRF_resized.png #illuminerf_after.mp4
+  image: SR_TensoRF_resized.png
+  image_mouseover: SR_TensoRF_resized.png #illuminerf_after.mp4
   authors:
     - yeonjin
     - yearim
