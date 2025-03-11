@@ -27,7 +27,7 @@ description: >-
   I am currently MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home).
   I received my BS from the Yonsei University in 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jung.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yj-142150.github.io." # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  # twitter username
 github_username: YJ-142150
 google_scholar: omgRWh8AAAAJ
