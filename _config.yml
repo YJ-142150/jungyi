@@ -26,8 +26,8 @@ description: >-
   I am interested in 4D Computer Vision and Video Generation. 
   I am currently MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home).
   I received my BS from the Yonsei University in 2024.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yj-142150.github.io/jungyi/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jungyi" # the subpath of your site, e.g. /blog
+url: "https://yj-142150.github.io/jungyi" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  # twitter username
 github_username: YJ-142150
 google_scholar: omgRWh8AAAAJ
