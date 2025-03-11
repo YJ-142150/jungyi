@@ -5,7 +5,7 @@
   project_page: https://cvlab-kaist.github.io/Chrono/
   arxiv: 2501.12218
   image: Chrono_resized.png
-  image_mouseover: Chrono_resized.png #reconfusion_after.mp4
+  #image_mouseover: Chrono_resized.png #reconfusion_after.mp4
   authors:
     - ines
     - cho
@@ -19,8 +19,8 @@
   venue: WACV, 2024
   description: "Outdoor scene relighting for Neural Radiance Fields (NeRF)."
   arxiv: 2311.03965
-  image: SR_TensoRF_resized.png
-  image_mouseover: SR_TensoRF_resized.png #illuminerf_after.mp4
+  image: srtensorf.png
+  #image_mouseover: .png #illuminerf_after.mp4
   authors:
     - yeonjin
     - yearim
