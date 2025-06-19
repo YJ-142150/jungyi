@@ -24,7 +24,7 @@ position: MS student
 email: jungyi9906@kaist.ac.kr
 description: >-
   I am MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home), advised by [Seungryong Kim](https://cvlab.kaist.ac.kr/members/faculty).
-  I am interested in 4D Computer Vision (In-the-wild SLAM, Video Generation, Robot Perception through Point Tracking, etc).
+  I am interested in 4D Computer Vision (In-the-wild SLAM, Video Generation, Robot Perception through Point Tracking).
   I received my BS from the Yonsei University in 2024.
 baseurl: "/jungyi" # the subpath of your site, e.g. /blog
 url: "https://yj-142150.github.io/jungyi" # the base hostname & protocol for your site, e.g. http://example.com
