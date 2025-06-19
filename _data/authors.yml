@@ -8,9 +8,18 @@ ines:
   middle_name: Ines
   last_name: Kim
   website: https://ines-hyeonsu-kim.github.io/
+ines*:
+  first_name: Hyeonsu
+  middle_name: Ines
+  last_name: Kim*
+  website: https://ines-hyeonsu-kim.github.io/
 cho:
   first_name: Seokju 
   last_name: Cho
+  website: https://seokju-cho.github.io/
+cho*:
+  first_name: Seokju 
+  last_name: Cho*
   website: https://seokju-cho.github.io/
 seungryong:
   first_name: Seungryong
