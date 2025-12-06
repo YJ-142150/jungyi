@@ -4,13 +4,13 @@ jung:
   website: https://jung.com
   is_me: true
 ines:
-  first_name: Hyeonsu
-  middle_name: Ines
+  first_name: Ines 
+  middle_name: Hyeonsu
   last_name: Kim
   website: https://ines-hyeonsu-kim.github.io/
 ines*:
-  first_name: Hyeonsu
-  middle_name: Ines
+  first_name: Inex
+  middle_name: Hyeonsu
   last_name: Kim*
   website: https://ines-hyeonsu-kim.github.io/
 cho:
@@ -48,3 +48,42 @@ nojun:
 yearim:
   first_name: Yearim
   last_name: Kim
+wooseok:
+  first_name: Wooseok
+  last_name: Jang
+  website: https://scholar.google.com/citations?user=7cyLEQ0AAAAJ&hl=ko
+hyunbin:
+  first_name: Paul Hyunbin
+  last_name: Cho
+jisu:
+  first_name: Jisu
+  last_name: Nam
+  website: https://nam-jisu.github.io/
+heeji:
+  first_name: Heeji
+  last_name: Yoon
+  website: https://yoon-heez.github.io/
+jahyeok*:
+  first_name: Jahyeok
+  last_name: Koo*
+  website: https://scholar.google.com/citations?user=1Vl37dcAAAAJ&hl=ko
+jahyeok:
+  first_name: Jahyeok
+  last_name: Koo
+  website: https://scholar.google.com/citations?user=1Vl37dcAAAAJ&hl=ko
+mungyeom:
+  first_name: Mungyeom
+  last_name: Kim
+  website: https://github.com/mungyeom011
+junghyun:
+  first_name: Junghyun
+  last_name: Park
+  website: https://junghyun-james-park.github.io/
+seohyeon:
+  first_name: Seohyeon
+  last_name: Park
+  website: https://eainx.github.io/
+jaeyeong:
+  first_name: Jaeyeong
+  last_name: Kim
+  website: https://github.com/kjae0

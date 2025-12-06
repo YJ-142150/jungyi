@@ -5,6 +5,11 @@
 #     [code](https://github.com/NVlabs/latentfusion) and
 #     [data](https://latentfusion.github.io) for [_LatentFusion_](https://latentfusion.github.io).
 
+- date: Dec 2025
+  description: >-
+    [_DeepForcing_](https://cvlab-kaist.github.io/DeepForcing/), [_MV-TAP_](https://cvlab-kaist.github.io/MV-TAP/), our papers on autoregressive video world model, point tracking model
+    has been released on arxiv.
+
 - date: Mar 2025
   description: >-
     [_Chrono_](https://cvlab-kaist.github.io/Chrono/), our paper on Point Tracking,
