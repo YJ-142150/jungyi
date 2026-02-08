@@ -14,6 +14,27 @@
     - heeji
     - seungryong
 
+- id: DiTracker
+  title: "DiTracker: Repurposing Video Diffusion Transformers for Robust Point Tracking."
+  venue: arxiv, 2025
+  description: "Video Diffusion Model for Point Tracking."
+  project_page: https://cvlab-kaist.github.io/DiTracker/
+  arxiv: 2512.20606
+  image: ditracker_512.png
+  #image_mouseover: Chrono_resized.png #reconfusion_after.mp4
+  authors:
+    - soowon
+    - honggyu
+    - chaehyun
+    - hyunah
+    - jisu
+    - dahyun
+    - siyoon
+    - jung
+    - jaewon
+    - junhwa
+    - seungryong
+
 - id: MVTAP
   title: "MV-TAP: Tracking Any Point in Multi-View Videos"
   venue: arxiv, 2025
