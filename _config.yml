@@ -23,9 +23,9 @@ name: Jung Yi
 position: MS student
 email: jungyi9906@kaist.ac.kr
 description: >-
-  I am MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home), advised by [Seungryong Kim](https://cvlab.kaist.ac.kr/members/faculty).
-  I am interested in 4D Computer Vision (Autoregressive Video World Model, Feed-Forward 4D Reconstruction, Robot Perception through Point Tracking).
-  I received my BS from the Yonsei University in 2024.
+  I am an MS Student at KAIST [CVLAB](https://cvlab.kaist.ac.kr/home), advised by [Seungryong Kim](https://cvlab.kaist.ac.kr/members/faculty).
+  I am interested in Efficient World Models, especially KV cache management in video world models.
+  I received my BS from Yonsei University in 2024.
 baseurl: "/jungyi" # the subpath of your site, e.g. /blog
 url: "https://yj-142150.github.io/jungyi" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  # twitter username

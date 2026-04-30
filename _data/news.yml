@@ -5,6 +5,18 @@
 #     [code](https://github.com/NVlabs/latentfusion) and
 #     [data](https://latentfusion.github.io) for [_LatentFusion_](https://latentfusion.github.io).
 
+
+- date: May 2026
+  description: >-
+    [_DeepForcing_](https://cvlab-kaist.github.io/DeepForcing/), our papers on autoregressive video world model, 
+    has been accepted to ICML 2026.
+
+- date: Mar 2026
+  description: >-
+    [_MV-TAP_](https://cvlab-kaist.github.io/MV-TAP/), our papers on Point Tracking, 
+    has been accepted to CVPR 2026.
+
+
 - date: Dec 2025
   description: >-
     [_DeepForcing_](https://cvlab-kaist.github.io/DeepForcing/), [_MV-TAP_](https://cvlab-kaist.github.io/MV-TAP/), [_DiTracker_](https://cvlab-kaist.github.io/DiTracker/) our papers on autoregressive video world model, point tracking model, video diffusion model

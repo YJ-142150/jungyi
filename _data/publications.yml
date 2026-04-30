@@ -1,6 +1,6 @@
 - id: DeepForcing
   title: "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression."
-  venue: arxiv, 2025
+  venue: ICML, 2026
   description: "Long-video generation by combining Deep Sink and Participative Compression."
   project_page: https://cvlab-kaist.github.io/DeepForcing/
   arxiv: 2512.05081
@@ -37,7 +37,7 @@
 
 - id: MVTAP
   title: "MV-TAP: Tracking Any Point in Multi-View Videos"
-  venue: arxiv, 2025
+  venue: CVPR, 2026
   description: "Multi-view point tracker that uses camera and cross-view attention."
   project_page: https://cvlab-kaist.github.io/MV-TAP/
   arxiv: 2512.02006
