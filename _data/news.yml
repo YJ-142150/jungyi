@@ -5,6 +5,9 @@
 #     [code](https://github.com/NVlabs/latentfusion) and
 #     [data](https://latentfusion.github.io) for [_LatentFusion_](https://latentfusion.github.io).
 
+- date: May 2025
+  description: >-
+    [_WorldKV_](https://cvlab-kaist.github.io/WorldKV/), our papers on efficient world memory has been released on arxiv.
 
 - date: May 2026
   description: >-
@@ -17,10 +20,10 @@
     has been accepted to CVPR 2026.
 
 
-- date: Dec 2025
-  description: >-
-    [_DeepForcing_](https://cvlab-kaist.github.io/DeepForcing/), [_MV-TAP_](https://cvlab-kaist.github.io/MV-TAP/), [_DiTracker_](https://cvlab-kaist.github.io/DiTracker/) our papers on autoregressive video world model, point tracking model, video diffusion model
-    has been released on arxiv.
+# - date: Dec 2025
+#   description: >-
+#     [_DeepForcing_](https://cvlab-kaist.github.io/DeepForcing/), [_MV-TAP_](https://cvlab-kaist.github.io/MV-TAP/), [_DiTracker_](https://cvlab-kaist.github.io/DiTracker/) our papers on autoregressive video world model, point tracking model, video diffusion model
+#     has been released on arxiv.
 
 - date: Mar 2025
   description: >-

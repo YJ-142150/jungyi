@@ -1,3 +1,20 @@
+- id: WorldKV
+  title: "WorldKV: Efficient World Memory with World Retrieval and Compression."
+  venue: arxiv, 2026
+  description: "Efficient World Memory by combining World Retrieval and World Compression."
+  project_page: https://cvlab-kaist.github.io/WorldKV/
+  arxiv: 2605.22718
+  image: 04_512.jpg
+  #image_mouseover: Chrono_resized.png #reconfusion_after.mp4
+  authors:
+    - jung
+    - minjae
+    - hyunbin
+    - wooseok
+    - sangdoo
+    - seungryong
+
+
 - id: DeepForcing
   title: "Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression."
   venue: ICML, 2026
