@@ -28,7 +28,7 @@ description: >-
   I received my BS from Yonsei University in 2024.
 baseurl: "/jungyi" # the subpath of your site, e.g. /blog
 url: "https://yj-142150.github.io/jungyi" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:  "https://x.com/jungyi3578?s=21&t=QuzY2EZNTfvK28R6Hxd3GQ" # twitter username
+twitter_username:  "@jungyi3578" # twitter username
 github_username: YJ-142150
 google_scholar: omgRWh8AAAAJ
 google_analytics: #G-MFWSBLRKG0
