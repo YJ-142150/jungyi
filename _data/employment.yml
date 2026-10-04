@@ -3,19 +3,19 @@
 #   dates: "May 2022 - Jan 2024"
 #   location: San Francisco, CA
 
-# - company: Google
-#   description: >-
-#     Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-#     Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
-#   dates: "Jun 2020 - Sep 2021"
-#   location: Seattle, WA
+- company: Reactor
+  role: Research Scientist Intern
+  description: >-
+    Project: Efficient Inference &amp; Infrastructure for Video World Models.
+  dates: "Sep 2026 - Now"
+  location: San Francisco, California
 
-# - company: NVIDIA
-#   description: >-
-#     Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-#     Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-#   dates: "Jul 2019 - Nov 2019"
-#   location: Seattle, WA
+- company: Kakao
+  role: Research Intern
+  description: >-
+    Project: Real-time Talking Avatar with Autoregressive Video Diffusion.
+  dates: "Mar 2026 - Jun 2026"
+  location: Pangyo, South Korea
 
 # - company: Amazon
 #   description: >- 

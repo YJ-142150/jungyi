@@ -31,6 +31,26 @@
     - heeji
     - seungryong
 
+- id: Lip Forcing
+  title: "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization."
+  venue: arxiv, 2026
+  description: "Real-time lip synchronization using few-step autoregressive diffusion."
+  project_page: https://cvlab-kaist.github.io/LipForcing/
+  arxiv: 2606.11180
+  image: lip.png
+  #image_mouseover: Chrono_resized.png #reconfusion_after.mp4
+  authors:
+    - hyunbin*
+    - jinhyuk*
+    - seokyoung
+    - joungbin
+    - siyoon
+    - heeseong
+    - jung
+    - yunjin
+    - chulmin
+    - seungryong
+
 - id: DiTracker
   title: "DiTracker: Repurposing Video Diffusion Transformers for Robust Point Tracking."
   venue: arxiv, 2025

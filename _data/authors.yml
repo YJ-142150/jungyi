@@ -55,6 +55,9 @@ wooseok:
 hyunbin:
   first_name: Paul Hyunbin
   last_name: Cho
+hyunbin*:
+  first_name: Paul Hyunbin
+  last_name: Cho*
 jisu:
   first_name: Jisu
   last_name: Nam
@@ -127,3 +130,21 @@ minjae:
   first_name: Minjae
   last_name: Kim
   website: https://github.com/kwjames98/
+jinhyuk*:
+  first_name: Jinhyuk
+  last_name: Jang*
+seokyoung:
+  first_name: SeokYoung 
+  last_name: Lee
+joungbin:
+  first_name: Joungbin
+  last_name: Lee
+heeseong:
+  first_name: Heeseong
+  last_name: Shin
+yunjin:
+  first_name: Yunjin
+  last_name: Park
+chulmin:
+  first_name: Chulmin
+  last_name: Park
